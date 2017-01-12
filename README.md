@@ -11,8 +11,8 @@ homeworks and exercises of quantum machanics
 
 [Exercise 5.7-5.12](https://www.zybuluo.com/RobertYulius/note/630648)
 
-[Exercise 6.1-7.2]()
+[Exercise 6.1-7.2](https://www.zybuluo.com/RobertYulius/note/630663)
 
-[Exercise 7.3-9.3]()
+[Exercise 7.3-9.3](https://www.zybuluo.com/RobertYulius/note/630665)
 
-[Exercise 9.5]()
+[Exercise 9.5](https://www.zybuluo.com/RobertYulius/note/630667)
